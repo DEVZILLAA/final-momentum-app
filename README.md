@@ -1,2 +1,2 @@
 # final-momentum-app
-Practing a to do list
+Practing a to do list.
